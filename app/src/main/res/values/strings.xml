@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Constantine I</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Constantine I (Latin: Flavius Valerius Constantinus; 27 February – 22 May 337), also known as Constantine the Great, was Roman Emperor from 306 to 337.
+        \n\nBorn in Naissus, Dacia Mediterranea, he was the son of Flavius Constantius (a Roman army officer born in Dardania who had been one of the four emperors of the Tetrarchy).
+        \n\nHis mother, Helena, was Greek and of low birth.
+        \n\nConstantine served with distinction under the Roman emperors Diocletian and Galerius.
+        \n\nHe began by campaigning in the eastern provinces (against barbarians, and the Persians) before he was recalled in the west (in 305 AD) to fight with his father in Britain.
+        \n\nAfter his father\'s death in 306, Constantine became emperor, he was acclaimed by his army at Eboracum (York), England.
+        \n\nHe emerged victorious in the civil wars against emperors Maxentius and Licinius to become the sole ruler of the Roman Empire by 324.
+    </string>
+    <string name="nickname_hint">What is the nickname</string>
+    <string name="done">Done</string>
+</resources>
